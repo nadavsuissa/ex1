@@ -80,7 +80,7 @@ Spanning tree is a spanning subgraph that is also a tree.
 
 Each Class and it's functions and it's parameters:
 
-NodeData: Class Representing The Node and it's data + Functions to apply on.
+Nodeinfo: Class Representing The Node and it's data + Functions to apply on.
 ------------------------------
 Parameters:
 int Key - The Unique Key/ID of each Node.
