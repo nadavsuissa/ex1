@@ -59,13 +59,6 @@ public class WGraph_DS implements weighted_graph, Serializable
         return false;
     }
 
-    /**
-     * this function gets the edge between two nodes
-     * @param node1 the first node
-     * @param node2-the second node
-     * @return the edge that there is between the nodes if they have an edge
-     * and if there is no edge returns -1.
-     */
     // This function based on two given node ID's will return the edge between them
     // if exists - return the edge, else - will return -1.
     @Override
