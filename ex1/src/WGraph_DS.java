@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 public class WGraph_DS implements weighted_graph, Serializable
 {
-    //TO CHANGE THIS ,THIS BELONGS TO AMIT
+    
     /**
      * CREATED BY NADAV SUISSA:
      * This class represents a general Weighted Graph that has a nested class for the nodes(Vertices)
