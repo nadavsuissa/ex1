@@ -34,7 +34,7 @@ public class WGraph_DS implements weighted_graph, Serializable
 
 
      // This function based on a given node ID checks if the node exists on the graph
-     // if so - return the expected node, else will return false.
+     // if so - return the expected node, else will return null.
     @Override
     public node_info getNode(int key)
     {
