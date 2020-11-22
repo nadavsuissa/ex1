@@ -313,11 +313,7 @@ public class WGraph_DS implements weighted_graph, Serializable
             return 0;
         }
 
-        /**
-         * this function checks if two nodes ar the same
-         * @param obj-the given node
-         * @return true if they have the same key
-         */
+
         // This function will check if two nodes are the same and if so will return true, else will return false.
         //Used as part of the equals implementation to help with save/load.
         @Override
